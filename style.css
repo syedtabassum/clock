@@ -86,3 +86,15 @@ body {
   z-index: 12;
   border-radius: 50%;
 }
+#digitalclock {
+  color: #848484;
+  font-size: 4em;
+  display: flex;
+  margin-top: 500px;
+  position: absolute;
+}
+#hour,
+#min,
+#sec,
+#ampm {
+}
